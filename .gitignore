@@ -1,0 +1,9 @@
+# IDE
+.idea/
+.claude/
+
+# R
+*.log
+.Rhistory
+.RData
+.Rproj.user
